@@ -1,0 +1,35 @@
+{
+  "name": "rn-mark-vision",
+  "version": "1.0.4",
+  "description": "A view animation story",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "animation",
+    "story",
+    "rn-mark-vision"
+  ],
+  "author": "HoanNguyen135",
+  "license": "MIT",
+  "homepage": "https://github.com/HoanNguyen135/rn-mark-vision",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoanNguyen135/rn-mark-vision"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2",
+    "react-js-tag-audio":"1.0.0",
+    "reactjs-audiotag":"1.0.1",
+    "react-nn-animation": "*",
+    "rn-ani": "1.0.3"
+  },
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  }  
+}
