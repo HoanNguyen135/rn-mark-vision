@@ -26,7 +26,8 @@
     "react-js-tag-audio":"1.0.0",
     "reactjs-audiotag":"1.0.1",
     "react-nn-animation": "*",
-    "rn-ani": "1.0.3"
+    "rn-ani": "1.0.3",
+    "react-hieus207-element":"*"
   },
   "devDependencies": {
     "react": "17.0.2",
