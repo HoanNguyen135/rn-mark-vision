@@ -23,12 +23,14 @@
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.68.2",
-    "react-js-tag-audio":"1.0.0",
-    "reactjs-audiotag":"1.0.1",
+    "react-native-animation-story": "*",
+    "react-js-tag-audio":"*",
+    "reactjs-audiotag":"*",
     "react-nn-animation": "*",
-    "rn-ani": "1.0.3",
+    "rn-ani": "*",
     "react-hieus207-element":"*",
-    "test_ci_cd_react_native": "*"
+    "test_ci_cd_react_native": "*",
+    "rn-react-native-story": "*"
   },
   "devDependencies": {
     "react": "17.0.2",
